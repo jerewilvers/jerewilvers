@@ -54,3 +54,4 @@ I am a university student of University Technology in Programming at the Nationa
 
 [![](https://github-readme-stats.vercel.app/api?username=jerewilvers&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jerewilvers)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=jerewilvers&theme=material-palenight)](https://github.com/jerewilvers)
+
