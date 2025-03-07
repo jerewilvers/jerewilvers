@@ -5,7 +5,7 @@
 
 **💫 About Me:**
 
-I am a university student of University Technology in Programming at the National Technological University. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
+I am a university student of University Technician in Programming at the National Technological University. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
      - Python
