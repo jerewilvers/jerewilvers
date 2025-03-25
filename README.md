@@ -9,7 +9,6 @@ I am a university student of University Technician in Programming at the Nationa
 
 - 🌱 I’m currently learning ...
      - Python
-     - TypeScript
      - My SQL
 - 🌎: I'm living now in **Esquel - Chubut - Argentina**
 - 🌴: I'm interested in coding, sleeping and watching NBA games and explore nature outdoors.
@@ -27,10 +26,6 @@ I am a university student of University Technician in Programming at the Nationa
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
