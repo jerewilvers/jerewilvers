@@ -10,6 +10,8 @@ I am a university student of University Technician in Programming at the Nationa
 - 🌱 I’m currently learning ...
      - Python
      - My SQL
+     - Java
+     - R
 - 🌎: I'm living now in **Esquel - Chubut - Argentina**
 - 🌴: I'm interested in coding, sleeping and watching NBA games and explore nature outdoors.
 - 👯 I’m looking forward to collaborate on open source projects.
